@@ -1,5 +1,4 @@
 # CO-pilot
--
 # Local Coding Assistant
 
 This project is a Python-based coding assistant that operates locally on your machine. It leverages pre-trained language models from the `transformers` library by Hugging Face to generate text and engage in interactive conversations. This assistant is designed to help you brainstorm ideas, provide code suggestions, and discuss coding-related topics as you work on your development projects.
