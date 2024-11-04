@@ -1,6 +1,5 @@
 from transformers import pipeline
 
-# Load the model and the pipeline
 generator = pipeline('text-generation', model='distilgpt2')
 
 def generate_response(prompt):
