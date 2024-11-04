@@ -59,5 +59,4 @@ Add Features: Integrate additional Python libraries or create new functions to e
 Contributing
 Contributions are welcome! If you have ideas for improvements or new features, feel free to submit a pull request.
 
-### License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
